@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 0ddb81ff-5188-45bf-8749-168d9d994e1f)
+
+  (paper "A4")
+
+  (title_block
+    (title "SmaCon")
+    (date "2023-02-12")
+    (rev "V1.0")
+    (company "https://github.com/KimiakiK")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
