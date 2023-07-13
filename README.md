@@ -4,7 +4,7 @@
 - 
 
 # Major Components
-- STM32U575CIU6
+- STM32U575CIU6Q
 Arm Cortex-M33 160MHz ROM 2MB RAM 786KB UFQFPN-48
 - LCD
 2.8inch 240x320 IPS ST7789 Touch GT911
@@ -16,13 +16,13 @@ LD14-002
 # Photos
 
 # Parts List
-- [STM32U575CIU6](https://mou.sr/3JZKRMG)
+- [STM32U575CIU6Q](https://mou.sr/46YhdRg)
 - LCD (AliExpress)
 - FM音源 YMF825 (AliExpress)
 - [スピーカー](https://akizukidenshi.com/catalog/g/gP-12495/)
 - [水晶振動子 12.228MHz](https://www.marutsu.co.jp/pc/i/1542722/)
 - [3.5mmステレオミニジャック](https://www.marutsu.co.jp/pc/i/590750/)
-- [マイクロSDスロット DM3AT-SF-PEJM5](https://akizukidenshi.com/catalog/g/gC-02395/)
+- [EEPROM 1KB 25LC080C-E/MS](https://mou.sr/3XQXcYr)
 - [振動モータ LD14-002](https://akizukidenshi.com/catalog/g/gP-06838/)
 - [モータドライバ BD6211F](https://akizukidenshi.com/catalog/g/gI-05087/)
 - [USB Type-Cコネクタ 5077CR-16SMC2-BK-TR](https://akizukidenshi.com/catalog/g/gC-14356/)
