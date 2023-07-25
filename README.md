@@ -38,3 +38,5 @@ LD14-002
 - [フェライトビーズ BLM18PG600SH1](https://akizukidenshi.com/catalog/g/gP-04442/)
 - [リセッタブルヒューズ 0.5A MF-NSMF050](https://akizukidenshi.com/catalog/g/gP-15300/)
 - [NchパワーMOSFET AO3400A](https://akizukidenshi.com/catalog/g/gI-14653/)
+- [FFCコネクタ 18pin 0.5mm](https://www.marutsu.co.jp/pc/i/2572902/)
+- [FFCコネクタ 6pin 0.5mm](https://www.marutsu.co.jp/pc/i/2572910/)
